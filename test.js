@@ -43,8 +43,8 @@ let testertext=`
 // &lt;url&gt;/items/1
 // json body in api tester
 // {
-//    "name": "replaced1"
-// }
+//    "name": "replacedme"
+// } 
 </pre>
 `
 
